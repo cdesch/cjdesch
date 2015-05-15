@@ -1,0 +1,12 @@
+# Site settings
+title: cjdesch.com
+email: me@cjdesch.com
+description: "My Own Website! Yay for me!"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.cjdesch.com" # the base hostname & protocol for your site
+twitter_username: cjdesch
+github_username:  cdesch
+youtube_channel: "https://www.youtube.com/user/cdesch2003"
+youtube_username: cdesch2003
+# Build settings
+markdown: kramdown
