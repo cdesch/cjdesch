@@ -5,10 +5,10 @@ date:   2015-07-22 16:21:23
 categories: videos unboxing
 ---
 
-[Shimano Acera SL-M310 Rapid Fire Shifter, Left (Black, 3-Speed )](http://amzn.to/1HLEV1X)
-[Shimano Acera SL-M310 Rapid Fire Shifter, Right (Black, 7-Speed)](http://amzn.to/1MpYuAW)
-[Acera BR-M422 front v_brake](http://amzn.to/1MpYvoB)
-[Dia Compe 76 Grey Matter Brake Pads (Bag of 4), Grey](http://amzn.to/1MpYBwm)
+- [Shimano Acera SL-M310 Rapid Fire Shifter, Left (Black, 3-Speed )](http://amzn.to/1HLEV1X)
+- [Shimano Acera SL-M310 Rapid Fire Shifter, Right (Black, 7-Speed)](http://amzn.to/1MpYuAW)
+- [Acera BR-M422 front v_brake](http://amzn.to/1MpYvoB)
+- [Dia Compe 76 Grey Matter Brake Pads (Bag of 4), Grey](http://amzn.to/1MpYBwm)
 
 
 
