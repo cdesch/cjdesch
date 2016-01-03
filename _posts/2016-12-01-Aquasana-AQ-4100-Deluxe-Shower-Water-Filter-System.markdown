@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Aquasana AQ-4100 Deluxe Shower Water Filter System with Adjustable Showerhead Unboxing and Setup"
+date:   2016-01-2 16:21:23"
+categories: videos
+---
+Aquasana AQ-4100 Deluxe Shower Water Filter System with Adjustable Showerhead: 
+http://amzn.to/1VxFulI
+<iframe width="420" height="315" src="https://www.youtube.com/embed/9RhttAFo8XI" frameborder="0" allowfullscreen></iframe>

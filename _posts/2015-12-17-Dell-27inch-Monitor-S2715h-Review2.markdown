@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dell 27" Monitor S2715H Review"
+title:  "Dell 27 Inch Monitor S2715H Review"
 date:   2015-12-17 16:21:23
 categories: videos
 ---
