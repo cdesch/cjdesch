@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "O2COOL® 10-Inch Portable Fan with AC Adapter"
+date:   2016-04-21 16:21:23"
+categories: videos
+---
+
+# O2COOL® 10-Inch Portable Fan with AC Adapter
+
+Minimalist guide to getting setup with Rails
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/upqYm_tMZ_s" frameborder="0" allowfullscreen></iframe>
+
+Youtube Video: https://youtu.be/upqYm_tMZ_s
