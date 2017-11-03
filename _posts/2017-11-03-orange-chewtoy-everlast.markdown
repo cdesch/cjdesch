@@ -2,7 +2,8 @@
 layout: post
 title:  "Everlasting Bento Bal"
 date:   2017-11-03 13:21:11"
-categories: videos, dogs
+categories: videos
+tags: dogs
 ---
 
 # Everlasting Bento Bal
